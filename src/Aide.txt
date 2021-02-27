@@ -1,0 +1,22 @@
+BUT:
+Le but du jeu est de franchir la fin du niveau avec le plus grand score possible. Vous pouvez éviter les ennemis (champignons et tortues), mais vous ne gagnez de points en ce faisant. Lors du contact avec un ennemi, vous serez questionné sur vos connaissances scientifiques (chimie, informatique, mathématiques ou physique) du niveau collégial. En répondant correctement, vous gagnerez 5 points à votre score. Vous perderez 1 point si la reponse n'est pas bonne, jusqu'à 5 tentatives.
+
+LANCEMENT:
+Pour jouer, sélectionnez «Jouer» dans le menu, puis choisissez un niveau. Le joueur peut choisir son niveau préféré. La sauvegarde est automatique à la fin du niveau.
+
+CONTRÔLES:
+Utilisez les touches suivantes pour bouger le personnage:
+- «a» pour bouger vers la gauche
+- «d» pour bouger vers la droite
+- «w» pour sauter
+
+QUITTER:
+En tout temps, appuyez sur la touche «échapper» pour terminer le programme ou revenir au menu de sélection de niveau si la partie est en cours.
+
+
+
+À PROPOS:
+Fait par:
+Robert Apostu, Jurrwensky Fenelus, Sangwoo Lee & Arthur Shpak
+Cours 420-204-RE: Projet d'intégration en Sciences informatiques et mathématiques
+24 mai 2020. Collège Rosemont

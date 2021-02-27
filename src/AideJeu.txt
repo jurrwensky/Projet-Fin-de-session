@@ -1,0 +1,5 @@
+Pour avancer, appuyez sur la touche "d".
+Pour reculer, appuyez sur la touche "a".
+Pour sauter, appuyez sur la touche "w".
+
+Le but du jeu est de franchir la fin du niveau avec le plus grand score possible. Vous pouvez éviter les ennemis (champignons et tortues), mais vous ne gagnez de points en ce faisant. Lors du contact avec un ennemi, vous serez questionné sur vos connaissances scientifiques (chimie, informatique, mathématiques ou physique) du niveau collégial. En répondant correctement, vous gagnerez 5 points à votre score. Vous perderez 1 point si la reponse n'est pas bonne, jusqu'à 5 tentatives.

@@ -1,0 +1,126 @@
+niveau 1
+Quel est l'intégrale de cos(x)?
+sin(x)
+Quel est la valeur de la gravité? (au dixième près)
+9.8
+Quel est le nom de la force qui est toujours diriger vers le centre de l'objet (sans accent)?
+centripete
+Quel est l'intégrale de x?
+x2/2
+Quel est la dérivée de sin(x)?
+cos(x)
+Quel est la formule d'une molécule de l'eau?
+H2O
+Quel est le mot qui désigne l'héritage en java?
+extends
+Quel est la dérivée de 800?
+0
+Quel est l'intégrale de 800?
+800x
+Quel est la nomenclature du Chlorure de sodium?
+NaCl
+niveau 2
+Quel est l'intégrale de cos(x)?
+sin(x)
+Quel est la valeur de la gravité? (au dixième près)
+9.8
+Quel est le nom de la force qui est toujours diriger vers le centre de l'objet (sans accent)?
+centripete
+Quel est l'intégrale de x?
+x2/2
+Quel est la dérivée de sin(x)?
+cos(x)
+Quel est la formule d'une molécule de l'eau?
+H2O
+Quel est le mot qui désigne l'héritage en java?
+extends
+Quel est la dérivée de 800?
+0
+Quel est l'intégrale de 800?
+800x
+Quel est la nomenclature du Chlorure de sodium?
+NaCl
+niveau 3
+Quel est la constante de la loi de Coulomb? (utiliser '*' pour la multiplication et exposant (E))
+8.99*10E9
+Trouvez la force résultante si l'objet pèse 9Kg et subit une accéleration de 5m/s2 (donnez juste le nombre sans unités)
+45
+6*5+90/3 = ___
+60
+Comment créer un objet (bon) de la classe Examen en Java?
+Examen bon = new Examen();
+La règle de l'Hôpital est utilisée lorsque la limite tend vers 0 ou ___
+infini/infini
+4x^2+80x+64 est un ... (réponse sans accents)
+trinome carre parfait
+Sous quelle forme une matrice peut-elle faire une addition? (réponse sans accents)
+carree
+En programmation orientée-objet, "montant" est considéré comme un attribut, une classe, un objet ou valeur d'attribut?
+un attribut
+String chaine = Maison; \nSystem.out.println(chaine.charAt(1));\nQue s'affiche-t-il?
+a
+Quel est le symbole pour l'incrémentation?
+++
+niveau 4
+Quel est la constante de la loi de Coulomb? (utiliser '*' pour la multiplication et exposant (E))
+8.99*10E9
+Trouvez la force résultante si l'objet pèse 9Kg et subit une accéleration de 5m/s2 (donnez juste le nombre sans unités)
+45
+6*5+90/3 = ___
+60
+Comment créer un objet (bon) de la classe Examen en Java?
+Examen bon = new Examen();
+La règle de l'Hôpital est utilisée lorsque la limite tend vers 0 ou ___
+infini/infini
+4x^2+80x+64 est un ... (réponse sans accents)
+trinome carre parfait
+Sous quelle forme une matrice peut-elle faire une addition? (réponse sans accents)
+carree
+En programmation orientée-objet, "montant" est considéré comme un attribut, une classe, un objet ou valeur d'attribut?
+un attribut
+String chaine = Maison; \nSystem.out.println(chaine.charAt(1));\nQue s'affiche-t-il?
+a
+Quel est le symbole pour l'incrémentation?
+++
+niveau 5
+Une voiture accélère de 0 à 100 km/h en 5 secondes. Si elle pèse 2300kg et qu'il y a en plus 3 personnes qui pèsent 300kg, quel est la valeur de l'accélération? (écrivez le chiffre au centième près)
+5.56
+La notation de ___ est un modèle de l’atome représentant les électrons de valence.
+Lewis
+Les orbitales atomiques qui sont définies par un momoment angulaire égal à 0, 1, 2 et 3 son définis comment? (écrivez en ordre avec l'utilisation de virgules)
+s,p,d,f
+La formule moléculaire 'H2SO4' désigne quel substance?
+acide sulfurique
+La formule moléculaire 'SO4' possède combien de charges? (écrivez le signe et le chiffre)
+-2
+Quel est la formule de la loi d'ohm?
+resistance=variation de potentiel/courant
+-2 exposant 2 = ___
+-4
+(-2) exposant 2 = ___
+4
+String chaine = Maison; \nSystem.out.println(chaine.charAt(5));\nQue s'affiche-t-il?
+n
+4+8 = ___ en base 2
+1100
+niveau 6
+Une voiture accélère de 0 à 100 km/h en 5 secondes. Si elle pèse 2300kg et qu'il y a en plus 3 personnes qui pèsent 300kg, quel est la valeur de l'accélération? (écrivez le chiffre au centième près)
+5.56
+La notation de ___ est un modèle de l’atome représentant les électrons de valence.
+Lewis
+Les orbitales atomiques qui sont définies par un momoment angulaire égal à 0, 1, 2 et 3 son définis comment? (écrivez en ordre avec l'utilisation de virgules)
+s,p,d,f
+La formule moléculaire 'H2SO4' désigne quel substance?
+acide sulfurique
+La formule moléculaire 'SO4' possède combien de charges? (écrivez le signe et le chiffre)
+-2
+Quel est la formule de la loi d'ohm?
+resistance=variation de potentiel/courant
+-2 exposant 2 = ___
+-4
+(-2) exposant 2 = ___
+4
+String chaine = Maison; \nSystem.out.println(chaine.charAt(5));\nQue s'affiche-t-il?
+n
+4+8 = ___ en base 2
+1100
